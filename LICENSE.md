@@ -1,4 +1,4 @@
-# 
+# Enhance ScreenFlow for macOS with ScreenFlow for macOS professional Plugin: shortcut-customization & normalization, the #1 plugin. Includes shortcut-customization and
 
 
 
